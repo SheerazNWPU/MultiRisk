@@ -31,4 +31,4 @@ PrePreTraining
 PrepareRiskData
 OneSidedRules
 Common
-python Main.py 123
+python Main.py
