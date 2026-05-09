@@ -27,7 +27,6 @@ Install the required packages listed in `Requirements.txt`.
 
 ## Usage
 ```bash
-PrePreTraining
 PrepareRiskData
 OneSidedRules
 Common
